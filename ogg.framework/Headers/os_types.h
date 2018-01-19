@@ -69,11 +69,11 @@
 #elif (defined(__APPLE__) && defined(__MACH__)) /* MacOS X Framework build */
 
 //#  include <inttypes.h>
-   typedef int16_t ogg_int16_t;
-   typedef uint16_t ogg_uint16_t;
-   typedef int32_t ogg_int32_t;
-   typedef uint32_t ogg_uint32_t;
-   typedef int64_t ogg_int64_t;
+//   typedef int16_t ogg_int16_t;
+//   typedef uint16_t ogg_uint16_t;
+//   typedef int32_t ogg_int32_t;
+//   typedef uint32_t ogg_uint32_t;
+//   typedef int64_t ogg_int64_t;
 
 #elif defined(__HAIKU__)
 
